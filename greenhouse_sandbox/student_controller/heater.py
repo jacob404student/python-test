@@ -6,7 +6,7 @@ Owner: <name>
 
 def control_heater(readings, setpoints, dt, state) -> float:
     """Return the heater power for this tick, a number in [0, 100].
-
+testing our the heater combonations
     Parameters
     ----------
     readings : SensorReadings
